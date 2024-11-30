@@ -9,5 +9,4 @@ rectangles = [
     [(0, 0), (5, 5)],
     [(2, 2), (7, 7)]
 ]
-
 fourth.intersectionAreaMultiRect(rectangles)
